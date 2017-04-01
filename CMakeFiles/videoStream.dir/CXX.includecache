@@ -7,7 +7,9 @@
 #IncludeRegexTransform: 
 
 /Users/abdullah/Documents/repos/ocv/Angel/videoStream.cpp
-stdio.h
+iostream
+-
+sstream
 -
 opencv2/opencv.hpp
 -
