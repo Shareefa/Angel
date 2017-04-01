@@ -12,12 +12,13 @@ int main(int argc, char** argv )
     Mat frame;
     namedWindow("stream", WINDOW_AUTOSIZE);
 
-    while(1){
-        cap >> frame;
+    while(cap.read(frame)){
 
-        if(waitKey(30) >= 0)
-            break;
         imshow("stream", frame);
+        if(waitKey(0) >= 0){
+            break;
+        }
+
     }
 
 

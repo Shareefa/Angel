@@ -1,0 +1,3 @@
+/Users/abdullah/Documents/repos/ocv/Angel/CMakeFiles/rebuild_cache.dir
+/Users/abdullah/Documents/repos/ocv/Angel/CMakeFiles/edit_cache.dir
+/Users/abdullah/Documents/repos/ocv/Angel/CMakeFiles/videoStream.dir
